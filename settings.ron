@@ -492,8 +492,8 @@
         "data/scene.rgs": (
             camera_settings: (
                 position: (0.0, 0.0, 0.0),
-                yaw: -1.0307963,
-                pitch: 0.21,
+                yaw: -0.5807963,
+                pitch: 0.030000001,
                 projection: Perspective((
                     fov: 1.3089969,
                     z_near: 0.025,
@@ -508,19 +508,19 @@
                     is_expanded: true,
                 ),
                 (
-                    index: 46,
-                    generation: 1,
-                ): (
-                    is_expanded: true,
-                ),
-                (
-                    index: 2,
-                    generation: 1,
-                ): (
-                    is_expanded: true,
-                ),
-                (
                     index: 1,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 0,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 4,
                     generation: 1,
                 ): (
                     is_expanded: true,
@@ -532,7 +532,13 @@
                     is_expanded: true,
                 ),
                 (
-                    index: 0,
+                    index: 2,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 46,
                     generation: 1,
                 ): (
                     is_expanded: true,
@@ -546,9 +552,9 @@
         ],
     ),
     windows: (
-        window_position: (1918.0, 0.0),
-        window_size: (3840.0, 2132.0),
-        window_maximized: true,
+        window_position: (3742.0, 0.0),
+        window_size: (2016.0, 2132.0),
+        window_maximized: false,
         layout: None,
     ),
 )
